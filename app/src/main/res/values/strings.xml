@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Time Zone Converter</string>
+    <string-array name="time_zone_list">
+        <item>GMT</item>
+        <item>UTC</item>
+        <item>America/New_York</item>
+        <item>Europe/London</item>
+        <item>Asia/Kolkata</item>
+        <item>Australia/Sydney</item>
+        <item>Asia/Tokyo</item>
+        <item>Europe/Berlin</item>
+        <!-- Add more time zones as needed -->
+    </string-array>
+</resources>
